@@ -24,6 +24,7 @@ I am __Manuj Mehra__, a seasoned data scientist with ~7 years of progressive exp
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extra-curricular](#Extra-curricular) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -83,3 +84,5 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+##### Extra-curricular
